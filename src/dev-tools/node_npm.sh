@@ -11,3 +11,5 @@ sudo $pkg_mngr install -y nodejs
 
 # Install gitmoji
 npm i -g gitmoji-cli
+
+echo "node and npm installed!"

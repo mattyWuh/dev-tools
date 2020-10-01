@@ -15,3 +15,5 @@ pip3 install --user cookiecutter
 
 # Ensure packages are on path
 echo "\nPATH=${PATH}:/usr/bin" >> ${HOME}/.zshrc
+
+echo "python installed!"
