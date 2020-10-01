@@ -1,4 +1,4 @@
-#!/bin/bash
+#!usr/bin/env bash
 
 # Get the package manager
 pkg_mngr=$1

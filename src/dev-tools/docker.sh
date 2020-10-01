@@ -1,4 +1,4 @@
-#!/bin/bash
+#!usr/bin/env bash
 
 # Download docker install script
 curl https://get.docker.com/ >> install_docker.sh

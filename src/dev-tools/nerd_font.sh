@@ -1,4 +1,4 @@
-#!/bin/bash
+#!usr/bin/env bash
 
 # Get the repo
 git clone --depth 1 https://github.com/ryanoasis/nerd-fonts.git

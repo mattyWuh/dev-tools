@@ -1,4 +1,4 @@
-#!/bin/bash
+#!usr/bin/env bash
 
 # Install hyper extensions
 hyper i hyper-font-ligatures hyper-active-tab hyperline hyperpower nord-hyper

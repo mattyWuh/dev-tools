@@ -1,4 +1,4 @@
-#!/bin/bash
+#!usr/bin/env bash
 
 # Take pacakge manager as input
 pkg_mngr=$1
