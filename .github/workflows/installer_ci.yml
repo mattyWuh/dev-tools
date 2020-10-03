@@ -25,4 +25,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run install.sh 
-        run: sudo ./install.sh apt
+        run: |
+            ls
+            sudo ./install.sh apt
