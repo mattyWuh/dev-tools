@@ -1,10 +1,14 @@
 #!usr/bin/env bash
 
-# Take pacakge manager as input
+# Take package manager as input
 pkg_mngr=$1
 scripts=src/dev-tools
-# Install tools
-sudo $pkg_mngr install curl build-essential libssl-dev libffi-dev -y
+
+# Update package manager
+$pkg_mngr update
+
+# Install essentials
+bash $scripts/essentials.sh $pkg_mngr
 
 # Set up font
 bash $scripts/nerd_font.sh
