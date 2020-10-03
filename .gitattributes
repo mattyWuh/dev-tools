@@ -1,0 +1,4 @@
+.zshrc filter=lfs diff=lfs merge=lfs -text
+.hyper.js filter=lfs diff=lfs merge=lfs -text
+**/.zshrc filter=lfs diff=lfs merge=lfs -text
+**/.hyper.js filter=lfs diff=lfs merge=lfs -text
