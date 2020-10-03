@@ -5,9 +5,9 @@ Some bash scripts to automate the setup of a new environment. Current functional
 ## Reasoning
 **Docker** : For launching containers. Containers are great.
 
-**Nerd Font** : A nice monospaced font with ligatures.
-
 **Hyper** : A fun terminal to work in with lots of packages and customization options.
+
+**Nerd Font** : A nice monospaced font with ligatures.
 
 **Node/npm** : Here to enable gitmojis.
 
@@ -18,6 +18,7 @@ Some bash scripts to automate the setup of a new environment. Current functional
 **Zsh** : Slightly less archaic than `bash` and has wide support. 
 
 ## Future
-Add CI testing. 
 
-Add support for other 'nix operating systems.
+- Add support for other 'nix operating systems.
+
+- Make hyper optional.
